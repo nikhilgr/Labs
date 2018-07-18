@@ -1,4 +1,4 @@
-This lab shows you how to create a Smart-Contract Application on the Blockchain.    
+This lab shows you how to create a Smart-Contract Application on the Cisco Blockchain.    
 
 ## Objectives
 
