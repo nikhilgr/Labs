@@ -1,0 +1,41 @@
+{
+  "labId": "00-labs-01-Blockchain Smart-Contracts",
+  "title": "Building Blockchain Smart-Contracts 101",
+  "slug": "Learn how to build Smart-Contracts on the Blockchain.",
+  "time": 45,
+  "byod": false,
+  "files": [
+    {"title": "Step 0: Building Blockchain Smart-Contracts 101",
+      "file": "0.md"},
+    {"title": "Step 1: To Start, let us log into our Breweries",
+      "file": "1.md"},
+    {"title": "Step 2: Register a New Distributed Application (Instructor Demo Only)",
+      "file": "2.md"},
+    {"title": "Step 3.  Create a smart-contract to describe the business rules of the consortium",
+      "file": "3.md"},
+    {"title": "Step 4. Create barrels of beer by sending transactions to the smart contract",
+     "file": "4.md"},
+    {"title": "Step 5. Verify transactions have successfully been committed the blockchain",
+     "file": "5.md"},
+    {"title": "Step 6. Create a simple node.js application to interact with the blockchain",
+     "file": "6.md"},
+    {"title": "Step 9. Additional Information",
+     "file": "7.md"}
+  ],
+  "tags": [
+	{"title": "DevNet Labs"}
+  {"title": "Blockchain"}
+  {"title": "Smart-Contracts"}
+  {"title": "SDK"}
+  ],
+  "related": [
+    {
+		"labId": "basic-template",
+		"title": "Basic Lab Template"
+    }
+  ],
+  "authors": [
+      {"name": "Nikhil Gangaraju", "email": ""}
+  ],
+  "active": true
+}

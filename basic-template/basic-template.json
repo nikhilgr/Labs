@@ -1,0 +1,26 @@
+{
+  "labId": "basic-template",
+  "title": "Template For A Lab In DevNet Learning Labs",
+  "slug": "Use this basic template to write DevNet learning labs.",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Lorem Ipsum Dolor",
+     "file":"1.md"},
+    {"title": "Step 2. The Next Step Title",
+     "file": "2.md"}
+  ],
+  "tags": [
+	{"title": "DevNet Labs Template"}
+  ],
+  "related": [
+    {
+	"labId": "00-labs-01-getting_started",
+	"title": "Getting Started with Writing Learning Labs"
+    }
+  ],
+  "authors": [
+      {"name": "Armen Martirosyan", "email": "armartir@cisco.com"}
+  ],
+  "active": true
+}
