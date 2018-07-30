@@ -1,4 +1,4 @@
-## Cisco DevNet Learning Labs: `<Name of your Module>`
+## Cisco DevNet Learning Labs: BlockChain Learning Labs
 
 These self-paced interactive tutorials provide instructions for developers to ....
 
